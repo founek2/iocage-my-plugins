@@ -1,6 +1,6 @@
 {
   "name": "tetris",
-  "release": "11.1-RELEASE",
+  "release": "11.4-RELEASE",
   "artifact": "git@github.com:founek2/iocage-plugin-iot-platform.git",
   "properties": {
 	"allow_raw_sockets":"1",

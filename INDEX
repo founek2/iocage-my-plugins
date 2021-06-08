@@ -1,0 +1,12 @@
+{
+	"backuppc": {
+		"MANIFEST": "tetris.json",
+		"name": "Tetris",
+		"icon": "https://icons.freenas.org/community-icons/backuppc.png",
+		"description": "Enterprise-grade system for backing up Linux, Windows, and MacOSX computers to a server.",
+		"official": false,
+		"primary_pkg": "games/bastet",
+		"category": "security",
+		"homepage": "http://iotplatforma.cloud"
+	},
+}
