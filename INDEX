@@ -1,12 +1,12 @@
 {
-	"backuppc": {
-		"MANIFEST": "tetris.json",
-		"name": "Tetris",
-		"icon": "https://icons.freenas.org/community-icons/backuppc.png",
-		"description": "Enterprise-grade system for backing up Linux, Windows, and MacOSX computers to a server.",
+	"platform": {
+		"MANIFEST": "platform.json",
+		"name": "IoT Platforma",
+		"icon": "https://raw.githubusercontent.com/founek2/iocage-my-plugins/master/platform.png",
+		"description": "IoT Platform with web interface communicates with IoT device over MQTT protocol.",
 		"official": false,
-		"primary_pkg": "games/bastet",
-		"category": "security",
-		"homepage": "http://iotplatforma.cloud"
+		"primary_pkg": "node",
+		"category": "home-automation",
+		"homepage": "http://dev.iotplatforma.cloud"
 	},
 }
