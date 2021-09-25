@@ -4,6 +4,7 @@
     "official": false,
     "artifact": "https://github.com/founek2/iocage-plugin-iot-platform.git",
     "properties": {
+        "dhcp": 1,
         "allow_raw_sockets": "1",
         "boot": "on"
     },
