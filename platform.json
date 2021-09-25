@@ -6,7 +6,9 @@
     "properties": {
         "dhcp": 1,
         "allow_raw_sockets": "1",
-        "boot": "on"
+        "boot": "on",
+        "bpf": "on",
+        "vnet": "on"
     },
     "pkgs": ["security/ca_root_nss", "node", "yarn", "git"],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
