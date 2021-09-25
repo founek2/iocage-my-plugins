@@ -1,7 +1,7 @@
 {
 	"platform": {
 		"MANIFEST": "platform.json",
-		"name": "IoT Platforma",
+		"name": "iot-platform",
 		"icon": "https://raw.githubusercontent.com/founek2/iocage-my-plugins/master/platform.png",
 		"description": "IoT Platform with web interface communicates with IoT device over MQTT protocol.",
 		"official": false,
